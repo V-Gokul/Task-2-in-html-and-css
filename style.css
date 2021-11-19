@@ -1,0 +1,59 @@
+.image{
+    height: 450px;
+    width: 1349.5px;
+    background-image: url("./img/wp2599594-nature-background-image-hd.jpg"),linear-gradient(to left bottom, #deb631, #85bf5f, #34b999, #39a9b9, #7395b1);
+    background-blend-mode: hard-light;
+    background-size: cover;
+    /* background-repeat: no-repeat; */
+    
+}
+body{
+    background-color: #dbdbd3;
+    margin: 0px;
+    background-image: linear-gradient(to left bottom, #deb631, #85bf5f, #34b999, #39a9b9, #7395b1);
+}
+.ff{
+    height: 130px;
+    width:130px;
+    border-radius: 50%;
+    /* padding-bottom: 70px; */
+    /* margin-bottom: 40px; */     
+}
+.nuu{
+    height: 20px;
+    width: 20px;
+    background-color: rgb(5, 107, 107);
+    text-align: center;
+    border-radius: 50%;
+    position: relative;
+    left: 225px;
+    bottom: 135px;
+    color: beige;
+}
+.hono{
+    height: 25rem;
+    width: 26rem;
+    background-color: #7395B1;
+    margin-left: 15px;
+    margin-top: 1rem;
+    text-align: center;
+    padding-top: 5rem;
+    padding-top: 1rem;
+    border-radius: 10px;
+  
+}
+.hunt{
+    padding-left: 15px;
+
+  
+}
+.contnt{
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+}
+.yno{
+    position: sticky;
+    top: 0px;
+
+}
